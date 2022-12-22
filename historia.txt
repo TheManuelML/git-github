@@ -1,7 +1,7 @@
-Esta es la historia de Manuel
+Esta es la historia de Manuel Magaña Lopez
 Manuel tiene 17 años
 
 Le gusta programar
-Esta estudiando en Platzi
+Esta estudiando en Platzi Git y Github
 
-De grande quiere ser Ing BigData
+De grande quiere dedicarse al BigData
